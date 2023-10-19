@@ -8,7 +8,7 @@ This project was bootstrapped with [Vite](https://vitejs.dev/). It's a React app
 ![preview-food-cart](./public/preview-food-cart.png)
 
 ## Demo
-
+https://phuonganhniie.github.io/wecamp2023-food-order-app/
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
