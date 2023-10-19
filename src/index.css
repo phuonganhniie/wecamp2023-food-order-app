@@ -1,0 +1,10 @@
+:root {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #ffcda2;
+  /* background-color: #f0bbc3; */
+  /* font-family: 'Lato', sans-serif; */
+}
